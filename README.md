@@ -33,9 +33,9 @@ A comprehensive school management system built with Next.js 14, TypeScript, Tail
 ## 📸 ScreenShots
 
 <img src="images/admin.png"/>
-<img src="images/admin-subject.png.png"/>
-<img src="images/admin-class.png.png"/>
-<img src="images/admin-exam.png.png"/>
+<img src="images/admin-subject.png"/>
+<img src="images/admin-class.png"/>
+<img src="images/admin-exam.png"/>
 <img src="images/teacher.png"/>
 <img src="images/parent.png"/>
 <img src="images/student.png"/>
