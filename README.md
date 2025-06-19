@@ -30,6 +30,16 @@ A comprehensive school management system built with Next.js 14, TypeScript, Tail
 - **Styling**: Tailwind CSS
 - **Charts**: React Charts
 
+## 📸 ScreenShots
+
+<img src="images/admin.png"/>
+<img src="images/admin-subject.png.png"/>
+<img src="images/admin-class.png.png"/>
+<img src="images/admin-exam.png.png"/>
+<img src="images/teacher.png"/>
+<img src="images/parent.png"/>
+<img src="images/student.png"/>
+
 ## Getting Started
 
 ### Prerequisites
